@@ -70,16 +70,6 @@ App will be live at 👉 `http://localhost:3000`
 
 ---
 
-## 🖼️ Screenshots
-
-### ✅ Todo List Page
-![Todo List](./screenshots/home.png)
-
-### ✨ Add New Todo
-![Add New Todo](./screenshots/new.png)
-
----
-
 ## 📦 Deployment
 This app can be deployed easily on **Vercel**:
 
@@ -95,7 +85,4 @@ vercel
 - [ ] Due dates + reminders  
 - [ ] Dark/light mode toggle  
 
----
 
-## 👨‍💻 Author
-Built with ❤️ by [Your Name](https://github.com/yourusername)  
