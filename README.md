@@ -48,7 +48,7 @@ A simple **Todo List App** built using **Next.js 13 (App Router)**, **Prisma ORM
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/nextjs-todo-animated.git
+git clone https://github.com/KushagraJadiya24/nextjs-todo-animated.git
 cd nextjs-todo-animated
 ```
 
